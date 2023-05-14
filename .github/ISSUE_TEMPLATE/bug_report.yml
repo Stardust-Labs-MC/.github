@@ -12,8 +12,8 @@ body:
         - 1.19.x
         - 1.19.4
         - 1.20
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: pack
     attributes:
@@ -30,8 +30,8 @@ body:
         - Datapack
         - Mod (Fabric)
         - Mod (Forge)
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Describe the bug
