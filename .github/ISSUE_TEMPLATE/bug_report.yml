@@ -1,7 +1,12 @@
 name: Bug report
-description: Create a bug report for Stardust Labs projects. General support questions should be redirected to our [Discord](https://www.discord.gg/stardustlabs).
+description: Create a bug report for Stardust Labs projects
+title: "Bug:"
 labels: [bug]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This is for bug reports only. General support questions should be redirected to our [Discord](https://www.discord.gg/stardustlabs).
   - type: dropdown
     id: mc
     attributes:

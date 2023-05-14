@@ -1,7 +1,11 @@
 name: Enhancement
-description: Suggest an enhancement or improvement for an existing Stardust Labs project. Comlex or bigger features should be brought up in the [Discord](https://www.discord.gg/stardustlabs).
+description: Suggest an enhancement or improvement for an existing Stardust Labs project.
 labels: [enhancement]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This is for minor enhancements/improvements only. Complex or bigger features should be brought up in the [Discord](https://www.discord.gg/stardustlabs).
   - type: textarea
     attributes:
       label: Describe your enhancement/improvement, with context and reasoning.
