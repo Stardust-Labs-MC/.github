@@ -1,0 +1,28 @@
+- color: d73a4a
+  name: bug
+  description: Something is broken.
+- color: ffffff
+  name: duplicate
+  description: Similar issue or pull request already exists.
+- color: 1d76db
+  name: enhancement
+  description: Adding or requesting a new feature.
+- color: d876e3
+  name: question
+  description: This is more a support question than an issue.
+- color: e4e669
+  name: wontfix
+  description: Not an issue, or not planned.
+# Stardust Labs specific
+- color: 6ee81e
+  name: future
+  description: Valid, but only for a future update.
+- color: 7b145c
+  name: minor
+  description: Minor issue/feature, such as a typo.
+- color: e99695
+  name: nbt
+  description: Requires NBT manipulation.
+- color: 0e8a16
+  name: worldgen
+  description: Requires worldgen manipulation.
