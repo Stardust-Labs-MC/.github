@@ -1,5 +1,6 @@
 name: Enhancement
 description: Suggest an enhancement or improvement for an existing Stardust Labs project.
+title: "[Enhancement]"
 labels: [enhancement]
 body:
   - type: markdown
