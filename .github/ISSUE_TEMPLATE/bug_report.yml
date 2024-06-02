@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         This is for bug reports only. General support questions should be redirected to our [Discord](https://www.discord.gg/stardustlabs).
+
+        **Note**: Is your bug about the superflat or other world types? Please read [this](<https://github.com/Stardust-Labs-MC/Terralith/issues/113>) before making an issue.
   - type: dropdown
     id: mc
     attributes:
