@@ -39,8 +39,8 @@ body:
       label: Mod or datapack version?
       options:
         - Datapack
-        - Mod (Fabric)
-        - Mod (Forge)
+        - Fabric/Quilt Mod
+        - Neoforge/Forge Mod
     validations:
       required: true
   - type: textarea
